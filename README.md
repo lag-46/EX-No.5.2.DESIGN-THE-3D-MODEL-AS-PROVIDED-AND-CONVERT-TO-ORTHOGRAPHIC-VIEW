@@ -1,5 +1,5 @@
 # EX No.5.2.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE:
+## DATE: 05/05/2025
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -32,10 +32,12 @@ Switch to drawing mode from design mode
 1. Select the base view and position the model to project from base view 
 2. Select the projected view to generate orthographic projections
 
-## INPUT
+## INPUT:
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
-## OUTPUT
+## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/e04730f3-3600-4437-99e2-1cbb266b0f46)
 
 
 ## RESULT:
